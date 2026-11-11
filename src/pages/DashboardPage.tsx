@@ -33,7 +33,7 @@ export function DashboardPage() {
           <a href="https://github.com/ebinmanuval/receipt-scanner-api.git" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline mr-2">
             API Repository
           </a>
-          <a href="https://github.com/ebinmanuval/receipt-scanner-api.git" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline mr-2">
+          <a href="https://github.com/ebinmanuval/receipt-scanner-react.git" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline mr-2">
             React Repository
           </a>
         </p>
